@@ -47,4 +47,4 @@ while game_is_on:
             scoreboard.reset()
             snake.reset()
 
-game_is_on=False
+Screen.mainloop()
